@@ -1,10 +1,8 @@
-# Desafio Final Imersão Dados
-## Modelo de Machine Learning para Identificação de Potenciais Novos Medicamentos
+# [FINAL CHALLENGE] Alura Data Science Immersion Week
+## Machine Learning Model to Identify Potential New Drugs
 
-**Motivação:** A principal motivação deste projeto é me familiarizar com a área de Data Science e aprofundar meus estudos, uma vez que decidi fazer uma transição de careira após os 30. Sou graduada em Ciências Biológicas, mas nunca atuei na área, pois sempre fui apaixonada por línguas. Me aprofundei na área fazendo um mestrado em linguística aplicada, e atuo como professora de inglês há 12 anos. No entanto, em busca de uma área que possa me garantir uma aposentadoria mais segura, decidi retomar meu interesse em programação, que nunca tive a oportunidade de aprofundar. Estou fascinada pela área de ciência de dados e pretendo trabalhar com inteligência artificial, talvez na área de natural language processing. No fim das contas, seja inglês ou Python, meu interesse sempre foi entender como linguagens funcionam. :)
+**Objective:** The purpose of this mini-project is to learn how to filter and analyse a dataset, and use this data to train and test a machine learning model that can classify future inputs.
 
-**Objetivo:** O objetivo deste projeto é analisar um dataframe e a partir dele treinar um modelo de machine learning que possa prever o comportamento de futuros inputs.
+**Data:** The data used in this project comes from a Kaggle Challenge, and was adapted by the team who conducted the immersion week. The dataframes bring information about cell cultures treated with different drugs, and the results these drugs had on (1) gene expression and (2) cell viability.
 
-**Dados:** Os dados são provenientes da Semana de Imersão Alura 2021. Os dataframes trazem informações sobre culturas de células tratadas com diferentes compostos, e os resultados desses tratamentos em relação à (1) expressão de certos genes e (2) viabilidade de diferentes tipos celulares.
-
-**Análises:** As análises foram feitas com a utilização de bibliotecas como pandas, matplotlib, numpy e scikit-learn.
+**Analyses:** Analyses were conducted using libraries such as pandas, matplotlib, numpy e scikit-learn.
