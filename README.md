@@ -8,4 +8,4 @@
 * **Analyses:** Analyses were conducted using libraries such as pandas, matplotlib, numpy e scikit-learn.
 
 
-OBS: Even though the data was forked from another repository, 100% of the code in this notebook was written by me.
+OBS: Even though the data was forked from another repository, 100% of the code in the notebook was written by me.
